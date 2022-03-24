@@ -13,7 +13,7 @@ require_once __DIR__ . '/vendor/autoload.php';
 /**
  * @link https://core.telegram.org/bots/api#authorizing-your-bot
  */
-$bot = new Bot('__BOT_API_TOKEN__');
+$bot = new Bot('5132260282:AAFgVVmhexEGLvKAjqzl8uXAqKL-D3ns9g0');
 
 $chatId = Helper::getChatId();
 
